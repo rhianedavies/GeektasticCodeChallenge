@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeektasticCodeChallenge", "GeektasticCodeChallenge\GeektasticCodeChallenge.csproj", "{0A40B097-DEDB-4160-85B9-114F9ACA4AD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeektasticCodeChallengeTests", "GeektasticCodeChallengeTests\GeektasticCodeChallengeTests.csproj", "{62F531D6-0C57-4C6B-98D8-C7CBDCB82E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0A40B097-DEDB-4160-85B9-114F9ACA4AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A40B097-DEDB-4160-85B9-114F9ACA4AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A40B097-DEDB-4160-85B9-114F9ACA4AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F531D6-0C57-4C6B-98D8-C7CBDCB82E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F531D6-0C57-4C6B-98D8-C7CBDCB82E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F531D6-0C57-4C6B-98D8-C7CBDCB82E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F531D6-0C57-4C6B-98D8-C7CBDCB82E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
